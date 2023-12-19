@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$USER_HOME$/IdeaProjects/otuskotlin-test-project/ok-menu-api-v2-kmp" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/IdeaProjects/otuskotlin-test-project/ok-menu-api-v2-kmp" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$USER_HOME$/IdeaProjects/otuskotlin-test-project/ok-menu-common" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/IdeaProjects/otuskotlin-test-project/ok-menu-common" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ok-menu-api-v1-jackson" />
+            <option value="$PROJECT_DIR$/ok-menu-api-v2-kmp" />
+            <option value="$PROJECT_DIR$/ok-menu-common" />
+            <option value="$PROJECT_DIR$/untitled" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
